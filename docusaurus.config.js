@@ -74,11 +74,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'About me',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Post', position: 'left'},
+//          포스트 카테고리 기능이 없어서 Docs로 이관
+//          {to: '/blog', label: 'Post', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/noahNam',
             label: 'GitHub',
             position: 'right',
           },

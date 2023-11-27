@@ -10,35 +10,77 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '',
+    Svg: require('@site/static/img/python2.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: '',
+    Svg: require('@site/static/img/fastapi2.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: '',
+    Svg: require('@site/static/img/aws_logo_smile.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
       </>
     ),
   },
+  {
+    title: '',
+    Svg: require('@site/static/img/ddd.svg').default,
+    description: (
+      <>
+      </>
+    ),
+  },
+  {
+    title: '',
+    Svg: require('@site/static/img/mysql_logo.svg').default,
+    description: (
+      <>
+      </>
+    ),
+  },
+  {
+    title: '',
+    Svg: require('@site/static/img/clean.svg').default,
+    description: (
+      <>
+      </>
+    ),
+  },
+  {
+    title: '',
+    Svg: require('@site/static/img/pydantic.svg').default,
+    description: (
+      <>
+      </>
+    ),
+  },
+  {
+    title: '',
+    Svg: require('@site/static/img/docker.svg').default,
+    description: (
+      <>
+      </>
+    ),
+  },
+  {
+    title: '',
+    Svg: require('@site/static/img/docusaurus_logo.svg').default,
+    description: (
+      <>
+      </>
+    ),
+  }
 ];
 
 function Feature({title, Svg, description}: FeatureItem) {
