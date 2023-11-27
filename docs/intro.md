@@ -5,7 +5,7 @@ sidebar_position: 1
 # About me
 
 <div style={{ display: 'flex', alignItems: 'center' }}>
-  <img src="/noah-blog/img/noah_logo.png" alt="picture" style={{ width: 200, height: 200, marginRight: 20 }}/>
+  <img src="/img/noah_logo.png" alt="picture" style={{ width: 200, height: 200, marginRight: 20 }}/>
   <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 10 }}>
     <h3>KiHyeok Nam / Nam Ki Hyuk</h3>
     <p>엔지니어링은 사회에 기여하는 방향으로 발전해야 한다고 생각하는 개발자 입니다</p>
