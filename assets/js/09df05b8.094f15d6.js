@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoah_blog=self.webpackChunknoah_blog||[]).push([[8060],{8908:a=>{a.exports=JSON.parse('{"label":"gunicorn","permalink":"/docs/tags/gunicorn","allTagsPath":"/docs/tags","count":1,"items":[{"id":"fastapi/2021-04-30-gunicorn","title":"[Fastapi] Gunicorn","description":"What is Gunicorn?","permalink":"/docs/fastapi/fastapi-gunicorn"}]}')}}]);

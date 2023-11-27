@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoah_blog=self.webpackChunknoah_blog||[]).push([[1494],{185:t=>{t.exports=JSON.parse('{"label":"pydantic","permalink":"/docs/tags/pydantic","allTagsPath":"/docs/tags","count":1,"items":[{"id":"python/2021-05-22-pydantic","title":"[Python] Pydantic","description":"What is Pydantic?","permalink":"/docs/python/pydantic"}]}')}}]);

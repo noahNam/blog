@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoah_blog=self.webpackChunknoah_blog||[]).push([[3845],{7470:s=>{s.exports=JSON.parse('{"label":"s3","permalink":"/docs/tags/s-3","allTagsPath":"/docs/tags","count":1,"items":[{"id":"aws/2022-03-08-s3-object-sync","title":"[AWS] \uacc4\uc815\uac04 S3 Bucket Sync","description":"\ubaa9\uc801","permalink":"/docs/aws/aws-s3-sync"}]}')}}]);
