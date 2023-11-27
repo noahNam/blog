@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoah_blog=self.webpackChunknoah_blog||[]).push([[1892],{5595:s=>{s.exports=JSON.parse('{"label":"ecs","permalink":"/docs/tags/ecs","allTagsPath":"/docs/tags","count":1,"items":[{"id":"aws/2021-06-13-aws-ecs","title":"[AWS] 6. ECS Cluster - Fargate","description":"ECS Cluster \uc0dd\uc131","permalink":"/docs/aws/aws-ecs-fargate"}]}')}}]);

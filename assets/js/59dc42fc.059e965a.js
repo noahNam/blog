@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoah_blog=self.webpackChunknoah_blog||[]).push([[3746],{4250:s=>{s.exports=JSON.parse('{"label":"pypubsub","permalink":"/docs/tags/pypubsub","allTagsPath":"/docs/tags","count":1,"items":[{"id":"python/2021-04-25-pypubsub","title":"[Python] Pypubsub","description":"What is pypubsub?","permalink":"/docs/python/pypubsub"}]}')}}]);

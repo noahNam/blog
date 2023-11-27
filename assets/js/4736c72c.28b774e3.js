@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoah_blog=self.webpackChunknoah_blog||[]).push([[2345],{1352:a=>{a.exports=JSON.parse('{"label":"api gateway","permalink":"/docs/tags/api-gateway","allTagsPath":"/docs/tags","count":1,"items":[{"id":"aws/2021-06-20-aws-apigateway","title":"[AWS] 7. API Gateway","description":"API Gateway","permalink":"/docs/aws/aws-api-gateway"}]}')}}]);
