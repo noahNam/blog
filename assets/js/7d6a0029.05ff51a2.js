@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknoah_blog=self.webpackChunknoah_blog||[]).push([[8699],{478:a=>{a.exports=JSON.parse('{"label":"uvicorn","permalink":"/docs/tags/uvicorn","allTagsPath":"/docs/tags","count":1,"items":[{"id":"fastapi/2021-05-06-uvicorn","title":"[Fastapi] Uvicorn","description":"Uvicorn","permalink":"/docs/fastapi/fastapi-uvicorn"}]}')}}]);
